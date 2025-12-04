@@ -1,0 +1,5 @@
+{
+  "name": "MindfulTask - Smart Planner",
+  "description": "A smart task planner powered by Gemini to help break down goals, track progress, and send reminders.",
+  "requestFramePermissions": []
+}
